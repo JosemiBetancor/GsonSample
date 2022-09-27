@@ -1,0 +1,1 @@
+Prueba de Gson, realizada en clase.
